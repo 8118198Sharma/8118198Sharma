@@ -1,0 +1,32 @@
+Apache is one of the most popular open-source web servers globally, known for its stability, security, and flexibility.
+In this case study, we will explore a fictional scenario where a company, "Tech Solutions Inc.," adopts Apache web server for its web hosting needs.
+Company Overview:
+Name: Tech Solutions Inc.
+Industry: Information Technology Services
+Size: Medium-sized company with 200 employees
+Challenge: The company needs a reliable and scalable web server solution to host its web applications and websites.
+Security Measures:
+To enhance security, they regularly updated Apache and applied security patches. They also employed a Web Application Firewall (WAF) and implemented mod_security to protect against common web attacks.
+Benefits:
+Stability: Apache proved to be highly stable, with minimal downtime, ensuring uninterrupted service for clients.
+Scalability: The ability to add more servers and configure load balancing allowed Tech Solutions Inc. to scale their web hosting services easily.
+Security: Apache's extensive security features, coupled with regular updates, helped protect against cyber threats effectively.
+Community Support: The Apache community provided valuable support and resources for troubleshooting and optimization.
+Licence:
+The Apache web server, often referred to as Apache HTTP Server or simply Apache, is distributed under the terms of the Apache License, Version 2.0. The Apache License is an open-source software license that allows users to use, modify, and distribute the software freely, subject to certain conditions.
+1. Commercial Use:
+
+Commercial use of the Apache web server refers to using it within a business or for-profit organization for various purposes, including:
+*Hosting websites and web applications for commercial clients.
+*Running e-commerce websites to sell products or services.
+*Hosting internal company websites or web-based applications.
+*Providing web hosting services to customers for a fee.
+*Supporting revenue-generating online services
+ Non-Commercial Use:
+
+Non-commercial use of the Apache web server includes any use that is not primarily for profit or commercial gain. This can include:
+*Personal website hosting.
+*Educational institutions using it for teaching and research purposes.
+*on-profit organizations and charities using it for their websites and online services.
+*Development and testing environments for software developers and hobbyists.
+*Community-driven or open-source projects that are not intended for profit..
